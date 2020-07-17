@@ -6,8 +6,6 @@
 	<p>The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running.</p>
 	<div id="suggestions">
 	<a href="https://github.com/contact">Contact Support</a> —
-	<a href="https://githubstatus.com">GitHub Status</a> —
-	<a href="https://twitter.com/githubstatus">@githubstatus</a> —
-	<a href="https://github.com/ahmgeek/ahmgeek/blob/master/check-me-out.md">Joking, check me out babe' </a>
+	<a href="https://github.com/ahmgeek/ahmgeek/blob/master/check-me-out.md"> Joking, check me out babe' </a>
 	</div>
 </div>
