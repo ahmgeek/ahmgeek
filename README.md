@@ -1,3 +1,3 @@
 <p align="center">
-<img align=center src="https://raw.githubusercontent.com/untitaker/untitaker/master/github.gif" />
+<img align=center src="https://user-content.gitlab-static.net/c8f281a648578d0214728f29a41daa4e00eebc49/68747470733a2f2f632e74656e6f722e636f6d2f3646746f3034534b77525941414141642f6368696b612d6c6f76652d69732d7761722e676966" />
 </p>
